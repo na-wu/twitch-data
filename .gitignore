@@ -1,1 +1,4 @@
 .vscode
+config.py
+chat.log
+__pycache__
